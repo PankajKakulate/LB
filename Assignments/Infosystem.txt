@@ -1,0 +1,64 @@
+Assignment42Q1.java ;|
+File Length: 1323 ;|
+Assignment42Q2.java ;|
+File Length: 1926 ;|
+Assignment42Q3.java ;|
+File Length: 1745 ;|
+Assignment42Q4.java ;|
+File Length: 1677 ;|
+Assignment42Q5.class ;|
+File Length: 350 ;|
+Assignment42Q5.java ;|
+File Length: 3439 ;|
+Assignment43Q1.class ;|
+File Length: 782 ;|
+Assignment43Q1.java ;|
+File Length: 2461 ;|
+Assignment43Q2.class ;|
+File Length: 884 ;|
+Assignment43Q2.java ;|
+File Length: 2075 ;|
+Assignment43Q3.class ;|
+File Length: 740 ;|
+Assignment43Q3.java ;|
+File Length: 2085 ;|
+Assignment43Q4.class ;|
+File Length: 796 ;|
+Assignment43Q4.java ;|
+File Length: 3718 ;|
+Assignment43Q5.class ;|
+File Length: 350 ;|
+Assignment43Q5.java ;|
+File Length: 2578 ;|
+Assignment44Q1.class ;|
+File Length: 710 ;|
+Assignment44Q1.java ;|
+File Length: 2274 ;|
+Assignment44Q2.class ;|
+File Length: 832 ;|
+Assignment44Q2.java ;|
+File Length: 3107 ;|
+CheckSumCalculateProgram.class ;|
+File Length: 1462 ;|
+Copied.txt ;|
+File Length: 1287 ;|
+Copy2.txt ;|
+File Length: 1287 ;|
+CopyDataFromFile.class ;|
+File Length: 2053 ;|
+CopyFileProgram.class ;|
+File Length: 1623 ;|
+CreateDirProgram.class ;|
+File Length: 783 ;|
+CVFS1.PNG-S.lnk ;|
+File Length: 1712 ;|
+FileTypeProgram.class ;|
+File Length: 743 ;|
+Infosystem.txt ;|
+File Length: 0 ;|
+ListFilesFromDir.class ;|
+File Length: 1736 ;|
+ListRegularFiles.class ;|
+File Length: 1403 ;|
+Marvellous.txt ;|
+File Length: 596 ;|
